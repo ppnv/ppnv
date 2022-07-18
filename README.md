@@ -9,10 +9,6 @@ I actively participating in crypto community life. I creating guides and develop
 You can see my portfolio on the website: https://ppnv.space
 
 Contacts:
-tg: @styd_tr
-
-discord: Sergio | PPNV#0083
-
-twitter: @ppnv_service
+tg: @styd_tr /// discord: Sergio | PPNV#0083 /// twitter: @ppnv_service
 
 
