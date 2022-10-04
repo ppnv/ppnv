@@ -7,7 +7,7 @@ I actively participating in crypto community life. I creating guides and develop
 
 My services include running RPC nodes, running State Sync services and IBC relayers. I also are developing tools to help community and projects.
 
-I do not use cheap servers, only powerful and reliable servers. This allows my to uncompromisingly ensure reliability and availability of data, as well as high uptime of my nodes. In addition, the use of multi-level monitoring systems and a professional support team allows to solve non-trivial problems quickly and efficiently. 
+I do not use cheap servers, only powerful and reliable servers. This allows my to uncompromisingly ensure reliability and availability of data, as well as high uptime of my nodes. In addition, the use of multi-level monitoring systems Grafana + Prometeus + Telegram/Discord alerts allows to solve non-trivial problems quickly and efficiently.
 
 You can see my portfolio on the website: 🖥 https://ppnv.space
 
