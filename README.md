@@ -12,6 +12,8 @@ I do not use cheap servers, only powerful and reliable servers. This allows my t
 You can see my portfolio on the website: 🖥 https://ppnv.space
 
 Contacts:
-tg: @styd_tr /// discord: Sergio | PPNV#0083 /// twitter: @ppnv_service
+tg: @styd_tr <br>
+discord: Sergio | PPNV#0083 <br>
+twitter: @ppnv_service <br>
 
 I am the one you need! ✅
