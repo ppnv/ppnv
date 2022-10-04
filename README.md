@@ -15,6 +15,6 @@ Contacts: <br>
 tg: @styd_tr <br>
 discord: Sergio | PPNV#0083 <br>
 twitter: @ppnv_service <br>
-mail: sergiomateiko@gmail.com
+mail: ppnv.contact@gmail.com
 
 I am the one you need! ✅
