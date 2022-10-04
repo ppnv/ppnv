@@ -3,7 +3,7 @@ Hey there! My name is Sergio. I am individual Professional Proof of Stake Networ
 I help crypto projects to test their networks, and then I validate in mainnets.
 I have been doing this for almost 2 years and have gained a lot of experience.
 
-I actively participating in crypto community life. I creating guides and developing tools for community to make node operators life easier. Also glad to help projects by providing my highly secure and reliable infrastructure.
+I actively participating in crypto community life: creating guides and developing tools for community to make node operators life easier. Also glad to help projects by providing my highly secure and reliable infrastructure.
 
 My services include running RPC nodes, running State Sync services and IBC relayers. I also are developing tools to help community and projects.
 
