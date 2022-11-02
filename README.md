@@ -10,12 +10,11 @@ My services include running RPC nodes, running State Sync services and IBC relay
 I do not use cheap servers, only powerful and reliable servers. This allows my to uncompromisingly ensure reliability and availability of data, as well as high uptime of my nodes. In addition, the use of multi-level monitoring systems Grafana + Prometeus + Telegram/Discord alerts allows to solve non-trivial problems quickly and efficiently.
 
 You can see my portfolio on the website: 🖥 https://ppnv.space
+My explorer: http://explorer.ppnv.space
 
 ___
 
 Contacts: <br>
 telegram: @styd_tr <br>
-discord: Sergio | PPNV#0083 <br>
+discord: ! PPNV Service !#0083 <br>
 mail: ppnv.contact@gmail.com
-
-I am the one you need! ✅
