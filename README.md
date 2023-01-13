@@ -1,16 +1,28 @@
-🖐 Hey there! My name is Sergio. I am individual Professional Proof of Stake Network Validator.
+Hey there! 
 
-I help crypto projects to test their networks, and then I validate in mainnets.
-I have been doing this for almost 2 years and have gained a lot of experience.
+We are a development team, with a great professional background in server operations and administration. We actively participate in dozens of testnets, helping to keep them running and debugging, participating in development and support for an early start. Also already support many projects as mainnet va​​lidators. 
 
-I actively participating in crypto community life: creating guides and developing tools for community to make node operators life easier. Also glad to help projects by providing my highly secure and reliable infrastructure.
+Our validators nodes run on dozens of blockchain networks with no downtime. A fault-tolerant infrastructure is in place, with data replicated to multiple servers in different DCs around the world, so we can ensure high node availability.
 
-My services include running RPC nodes, running State Sync services and IBC relayers. I also are developing tools to help community and projects.
+We creating guides and developing tools for community to make node operators life easier. Also glad to help projects by providing we highly secure and reliable infrastructure. Our services include:
+➡️ API / REST Endpoint
+➡️ RPC Endpoint
+➡️ gRPC Endpoint
+➡️ Web gRPC Endpoint
+➡️ Genesis file
+➡️ IBC Relayers
+➡️ Seed Node
+➡️ Live Peers
+➡️ Addrbook file
+➡️ State Sync
+and other.
 
-I do not use cheap servers, only powerful and reliable servers. This allows my to uncompromisingly ensure reliability and availability of data, as well as high uptime of my nodes. In addition, the use of multi-level monitoring systems Grafana + Prometeus + Telegram/Discord alerts allows to solve non-trivial problems quickly and efficiently.
+We do not use cheap servers, only powerful and reliable servers. This allows our to uncompromisingly ensure reliability and availability of data, as well as high uptime of our nodes. 
 
-You can see my portfolio on the website: 🖥 https://ppnv.space <br>
-My explorer: http://explorer.ppnv.space
+In addition, the use of multi-level monitoring systems Prometeus + Grafana + alerts bots in Telegram and Discord allows to solve non-trivial problems quickly and efficiently.
+
+Website: https://ppnv.space
+Explorer: https://explorer.ppnv.space
 
 ___
 
