@@ -5,16 +5,16 @@ We are a development team, with a great professional background in server operat
 Our validators nodes run on dozens of blockchain networks with no downtime. A fault-tolerant infrastructure is in place, with data replicated to multiple servers in different DCs around the world, so we can ensure high node availability.
 
 We creating guides and developing tools for community to make node operators life easier. Also glad to help projects by providing we highly secure and reliable infrastructure. Our services include:
-➡️ API / REST Endpoint
-➡️ RPC Endpoint
-➡️ gRPC Endpoint
-➡️ Web gRPC Endpoint
-➡️ Genesis file
-➡️ IBC Relayers
-➡️ Seed Node
-➡️ Live Peers
-➡️ Addrbook file
-➡️ State Sync
+➡️ API / REST Endpoint <br>
+➡️ RPC Endpoint <br>
+➡️ gRPC Endpoint <br>
+➡️ Web gRPC Endpoint <br>
+➡️ Genesis file <br>
+➡️ IBC Relayers <br>
+➡️ Seed Node <br>
+➡️ Live Peers <br>
+➡️ Addrbook file <br>
+➡️ State Sync <br>
 and other.
 
 We do not use cheap servers, only powerful and reliable servers. This allows our to uncompromisingly ensure reliability and availability of data, as well as high uptime of our nodes. 
