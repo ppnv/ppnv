@@ -4,7 +4,8 @@ We are a development team, with a great professional background in server operat
 
 Our validators nodes run on dozens of blockchain networks with no downtime. A fault-tolerant infrastructure is in place, with data replicated to multiple servers in different DCs around the world, so we can ensure high node availability.
 
-We creating guides and developing tools for community to make node operators life easier. Also glad to help projects by providing we highly secure and reliable infrastructure. Our services include: <br>
+We creating guides and developing tools for community to make node operators life easier. Also glad to help projects by providing we highly secure and reliable infrastructure. <br>
+Our services include: <br>
 ➡️ API / REST Endpoint <br>
 ➡️ RPC Endpoint <br>
 ➡️ gRPC Endpoint <br>
