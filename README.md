@@ -28,6 +28,6 @@ Explorer: https://explorer.ppnv.space
 ___
 
 Contacts: <br>
-telegram: @ppnv_service <br>
+tg: ppnv_service <br>
 discord: ! PPNV Service !#0083 <br>
 mail: ppnv.contact@gmail.com
